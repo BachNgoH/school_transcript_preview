@@ -1,0 +1,306 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sections": []
+    },
+    {
+      "page_number": 2,
+      "sections": []
+    },
+    {
+      "page_number": 3,
+      "sections": [
+        {
+          "grade": "10T1",
+          "subjects": [
+            {
+              "name": "Toán học",
+              "gpa_term_1": 8.2,
+              "gpa_term_2": 9.0,
+              "gpa_cn": 8.7
+            },
+            {
+              "name": "Vật lí",
+              "gpa_term_1": 8.1,
+              "gpa_term_2": 8.8,
+              "gpa_cn": 8.6
+            },
+            {
+              "name": "Hóa học",
+              "gpa_term_1": 6.9,
+              "gpa_term_2": 8.4,
+              "gpa_cn": 7.9
+            },
+            {
+              "name": "Sinh học",
+              "gpa_term_1": 7.4,
+              "gpa_term_2": 8.9,
+              "gpa_cn": 8.4
+            },
+            {
+              "name": "Tin học",
+              "gpa_term_1": 8.3,
+              "gpa_term_2": 8.6,
+              "gpa_cn": 8.5
+            },
+            {
+              "name": "Ngữ văn",
+              "gpa_term_1": 7.9,
+              "gpa_term_2": 8.5,
+              "gpa_cn": 8.3
+            },
+            {
+              "name": "Lịch sử",
+              "gpa_term_1": 8.7,
+              "gpa_term_2": 9.2,
+              "gpa_cn": 9.0
+            },
+            {
+              "name": "Lịch sử",
+              "gpa_term_1": 8.7,
+              "gpa_term_2": 9.1,
+              "gpa_cn": 9.0
+            },
+            {
+              "name": "Địa lí",
+              "gpa_term_1": 8.2,
+              "gpa_term_2": 8.0,
+              "gpa_cn": 8.1
+            },
+            {
+              "name": "Ngoại ngữ",
+              "gpa_term_1": 6.9,
+              "gpa_term_2": 7.4,
+              "gpa_cn": 7.2
+            },
+            {
+              "name": "GDCD",
+              "gpa_term_1": 9.2,
+              "gpa_term_2": 8.9,
+              "gpa_cn": 9.0
+            },
+            {
+              "name": "Công nghệ",
+              "gpa_term_1": 9.5,
+              "gpa_term_2": 9.4,
+              "gpa_cn": 9.4
+            },
+            {
+              "name": "Thể dục",
+              "gpa_term_1": "Đ",
+              "gpa_term_2": "Đ",
+              "gpa_cn": "Đ"
+            },
+            {
+              "name": "GDQP",
+              "gpa_term_1": 9.5,
+              "gpa_term_2": 9.7,
+              "gpa_cn": 9.6
+            },
+            {
+              "name": "Điểm TB các môn học",
+              "gpa_term_1": 8.2,
+              "gpa_term_2": 8.7,
+              "gpa_cn": 8.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "sections": [
+        {
+          "grade": "11T1",
+          "subjects": [
+            {
+              "name": "Điểm TB các môn học",
+              "gpa_term_1": 8.5,
+              "gpa_term_2": 8.2,
+              "gpa_cn": 8.3
+            },
+            {
+              "name": "Toán học",
+              "gpa_term_1": 8.9,
+              "gpa_term_2": 7.7,
+              "gpa_cn": 8.1
+            },
+            {
+              "name": "Vật lí",
+              "gpa_term_1": 8.2,
+              "gpa_term_2": 8.1,
+              "gpa_cn": 8.1
+            },
+            {
+              "name": "Hóa học",
+              "gpa_term_1": 8.3,
+              "gpa_term_2": 8.2,
+              "gpa_cn": 8.2
+            },
+            {
+              "name": "Sinh học",
+              "gpa_term_1": 8.8,
+              "gpa_term_2": 8.2,
+              "gpa_cn": 8.4
+            },
+            {
+              "name": "Tin học",
+              "gpa_term_1": 8.5,
+              "gpa_term_2": 8.3,
+              "gpa_cn": 8.4
+            },
+            {
+              "name": "Ngữ văn",
+              "gpa_term_1": 8.4,
+              "gpa_term_2": 8.3,
+              "gpa_cn": 8.3
+            },
+            {
+              "name": "Lịch sử",
+              "gpa_term_1": 8.5,
+              "gpa_term_2": 7.5,
+              "gpa_cn": 7.8
+            },
+            {
+              "name": "Địa lí",
+              "gpa_term_1": 8.6,
+              "gpa_term_2": 8.6,
+              "gpa_cn": 8.6
+            },
+            {
+              "name": "Ngoại ngữ (Tiếng Anh)",
+              "gpa_term_1": 6.8,
+              "gpa_term_2": 7.1,
+              "gpa_cn": 7.0
+            },
+            {
+              "name": "GDCD",
+              "gpa_term_1": 8.8,
+              "gpa_term_2": 8.8,
+              "gpa_cn": 8.8
+            },
+            {
+              "name": "Công nghệ",
+              "gpa_term_1": 8.6,
+              "gpa_term_2": 8.1,
+              "gpa_cn": 8.3
+            },
+            {
+              "name": "Thể dục",
+              "gpa_term_1": "Đ",
+              "gpa_term_2": "Đ",
+              "gpa_cn": "Đ"
+            },
+            {
+              "name": "GDQP",
+              "gpa_term_1": 9.7,
+              "gpa_term_2": 9.0,
+              "gpa_cn": 9.2
+            },
+            {
+              "name": "Nghề PT",
+              "gpa_term_1": 9.4,
+              "gpa_term_2": 9.4,
+              "gpa_cn": 9.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "sections": [
+        {
+          "grade": "12T1",
+          "subjects": [
+            {
+              "name": "Ngữ văn",
+              "gpa_term_1": 8.9,
+              "gpa_term_2": 8.6,
+              "gpa_cn": 8.7
+            },
+            {
+              "name": "Lịch sử",
+              "gpa_term_1": 9.2,
+              "gpa_term_2": 8.6,
+              "gpa_cn": 8.8
+            },
+            {
+              "name": "Địa lí",
+              "gpa_term_1": 8.1,
+              "gpa_term_2": 7.4,
+              "gpa_cn": 7.6
+            },
+            {
+              "name": "Ngoại ngữ (Tiếng Anh)",
+              "gpa_term_1": 7.8,
+              "gpa_term_2": 9.0,
+              "gpa_cn": 8.6
+            },
+            {
+              "name": "GDCD",
+              "gpa_term_1": 8.4,
+              "gpa_term_2": 9.2,
+              "gpa_cn": 8.9
+            },
+            {
+              "name": "Công nghệ",
+              "gpa_term_1": 8.9,
+              "gpa_term_2": 8.7,
+              "gpa_cn": 8.8
+            },
+            {
+              "name": "Thể dục",
+              "gpa_term_1": "Đ",
+              "gpa_term_2": "Đ",
+              "gpa_cn": "Đ"
+            },
+            {
+              "name": "GDQP",
+              "gpa_term_1": 9.0,
+              "gpa_term_2": 8.9,
+              "gpa_cn": 8.9
+            },
+            {
+              "name": "Điểm TB các môn học",
+              "gpa_term_1": 8.5,
+              "gpa_term_2": 8.6,
+              "gpa_cn": 8.6
+            },
+            {
+              "name": "Toán học",
+              "gpa_term_1": 9.2,
+              "gpa_term_2": 9.0,
+              "gpa_cn": 9.1
+            },
+            {
+              "name": "Vật lí",
+              "gpa_term_1": 8.2,
+              "gpa_term_2": 8.4,
+              "gpa_cn": 8.3
+            },
+            {
+              "name": "Hóa học",
+              "gpa_term_1": 8.3,
+              "gpa_term_2": 8.6,
+              "gpa_cn": 8.5
+            },
+            {
+              "name": "Sinh học",
+              "gpa_term_1": 7.3,
+              "gpa_term_2": 8.5,
+              "gpa_cn": 8.1
+            },
+            {
+              "name": "Tin học",
+              "gpa_term_1": 9.2,
+              "gpa_term_2": 8.8,
+              "gpa_cn": 8.9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
